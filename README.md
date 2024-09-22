@@ -1,6 +1,6 @@
-- I’m @Teseractus
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science, Statistics
+- I’m @Teseractus Raybel CB
+- 👀 I’m interested in Data Science and Procurement
+- 🌱 I’m currently working as a  Data Science Contractor.
 - 💞️ I’m looking to collaborate on Data Science projects
   
 
